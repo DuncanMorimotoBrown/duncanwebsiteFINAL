@@ -1,0 +1,51 @@
+
+body{
+	margin: 50px 20% 50px 20%;
+	background-color:  #cccccc;
+	font-family: 'Roboto', sans-serif;
+	color:#ffffff;
+}
+
+a{
+	text-decoration: none;
+}
+h1{
+	font-family: 'Roboto', sans-serif;
+	font-size: 48px;
+	color: #000000;
+	
+}
+.center{
+	max-width:100%;
+	height: auto;
+	margin:0 0 3px 0;
+}
+
+.righty{ 
+	max-width:100%; 
+	height: auto;
+	float: right;
+	margin:0 0 24px 24x;
+	border: solid 5px #181818;
+	clear: right;
+}
+
+/* make your own class for "lefty" below this.
+   Jusr copy the class above and make the changes nesc.
+   Hint: there are at least 2 changes necesary */
+.lefty{
+	max-width:100%; 
+	height: auto;
+	float: left;
+	margin:0 0 24px 24px;
+	border: solid 5px #181818;
+	clear: left;
+		
+
+}
+
+p{
+	text-align: justify;
+	line-height: 24px;
+}
+
